@@ -1,0 +1,3 @@
+﻿  second.cpp
+C:\Users\Артём\source\repos\second\second\second.cpp(12,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  second.vcxproj -> C:\Users\Артём\source\repos\second\Debug\second.exe
