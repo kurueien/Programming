@@ -1,3 +1,2 @@
-# Programming
-# Programming
-# Programming
+# Задания по программированию
+Автор: Пикулин Артём ПИ202(1)
