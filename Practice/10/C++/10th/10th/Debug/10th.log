@@ -1,0 +1,6 @@
+﻿  10th.cpp
+G:\repos\10th\10th\10th.cpp(11,10): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+G:\repos\10th\10th\10th.cpp(13,14): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+G:\repos\10th\10th\10th.cpp(17,20): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+G:\repos\10th\10th\10th.cpp(24,20): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+  10th.vcxproj -> G:\repos\10th\Debug\10th.exe
