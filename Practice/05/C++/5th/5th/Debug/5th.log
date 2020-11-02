@@ -1,0 +1,3 @@
+﻿  5th.cpp
+G:\repos\5th\5th\5th.cpp(5,29): warning C4101: l: неиспользованная локальная переменная
+  5th.vcxproj -> G:\repos\5th\Debug\5th.exe
